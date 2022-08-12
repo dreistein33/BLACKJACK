@@ -1,6 +1,4 @@
 import deck
-import threading
-import sys
 
 
 class Player:
